@@ -12,7 +12,7 @@
   #+CAPTION: schematic
 #+NAME:   fig:1
 #+attr_html: :width 800px
-[[./images/Audio_Power_Meter.sch.svg]]
+[[./images/Audio_Power_Meter.sch.png]]
 
 
   #+CAPTION: 3d render
@@ -24,4 +24,4 @@
   #+CAPTION: PCB
 #+NAME:   fig:3
 #+attr_html: :width 800px
-[[./images/Audio_Power_Meter-brd.svg]]
+[[./images/Audio_Power_Meter-brd.png]]
