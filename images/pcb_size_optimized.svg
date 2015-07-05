@@ -14,7 +14,7 @@
    id="svg9474"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 4">
+   sodipodi:docname="pcb_size_optimized.svg">
   <defs
      id="defs9476" />
   <sodipodi:namedview
@@ -59,7 +59,9 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g708">
+       id="g708"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="295.5"
          sodipodi:rx="295.5"
@@ -74,7 +76,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g714">
+       id="g714"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="295.5"
          sodipodi:rx="295.5"
@@ -89,7 +94,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g720">
+       id="g720"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,53877 75255,53877 75255,53208 75924,53208 75924,53877 "
@@ -108,7 +116,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g728">
+       id="g728"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,51318 75255,51318 75255,50649 75924,50649 75924,51318 "
@@ -127,7 +138,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g736">
+       id="g736"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,48759 75255,48759 75255,48090 75924,48090 75924,48759 "
@@ -146,7 +160,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g744">
+       id="g744"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,46200 75255,46200 75255,45531 75924,45531 75924,46200 "
@@ -165,7 +182,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g752">
+       id="g752"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,43641 75255,43641 75255,42972 75924,42972 75924,43641 "
@@ -184,7 +204,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g760">
+       id="g760"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,41082 75255,41082 75255,40413 75924,40413 75924,41082 "
@@ -203,7 +226,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g768">
+       id="g768"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,38523 75255,38523 75255,37854 75924,37854 75924,38523 "
@@ -222,7 +248,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g776">
+       id="g776"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,35964 75255,35964 75255,35295 75924,35295 75924,35964 "
@@ -241,7 +270,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g784">
+       id="g784"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,33405 75255,33405 75255,32736 75924,32736 75924,33405 "
@@ -260,7 +292,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g792">
+       id="g792"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,30846 75255,30846 75255,30177 75924,30177 75924,30846 "
@@ -279,7 +314,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g800">
+       id="g800"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="66732,29118 67913,29118 67913,30299 66732,30299 66732,29118 "
@@ -298,7 +336,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g808">
+       id="g808"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="800"
          sodipodi:rx="800"
@@ -313,7 +354,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g814">
+       id="g814"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="70456,54527 70456,53346 71637,53346 71637,54527 70456,54527 "
@@ -332,7 +376,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g822">
+       id="g822"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -347,7 +394,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g828">
+       id="g828"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -362,7 +412,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g834">
+       id="g834"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -377,7 +430,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g840">
+       id="g840"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -392,7 +448,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g846">
+       id="g846"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -407,7 +466,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g852">
+       id="g852"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -422,7 +484,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g858">
+       id="g858"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -437,7 +502,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g864">
+       id="g864"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -452,7 +520,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g870">
+       id="g870"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -467,7 +538,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g876">
+       id="g876"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -482,7 +556,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g882">
+       id="g882"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -497,7 +574,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g888">
+       id="g888"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -512,7 +592,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:629.92102051;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g896">
+       id="g896"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 69744,38275 275,0"
@@ -589,7 +672,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g934">
+       id="g934"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -604,7 +690,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g940">
+       id="g940"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -619,7 +708,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g946">
+       id="g946"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -634,7 +726,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g952">
+       id="g952"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -649,7 +744,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g958">
+       id="g958"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -664,7 +762,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g964">
+       id="g964"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -679,7 +780,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g970">
+       id="g970"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -694,7 +798,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g976">
+       id="g976"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -709,7 +816,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g982">
+       id="g982"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -724,7 +834,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g988">
+       id="g988"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -739,7 +852,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g994">
+       id="g994"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -754,7 +870,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1000">
+       id="g1000"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -769,7 +888,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1006">
+       id="g1006"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -784,7 +906,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1012">
+       id="g1012"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -799,7 +924,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1018">
+       id="g1018"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -814,7 +942,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1024">
+       id="g1024"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -829,7 +960,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1030">
+       id="g1030"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -844,7 +978,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:98.42520142;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1038">
+       id="g1038"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 70767,45767 0,-4527"
@@ -1205,7 +1342,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1218">
+       id="g1218"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1220,7 +1360,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1224">
+       id="g1224"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1235,7 +1378,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1230">
+       id="g1230"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1250,7 +1396,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1236">
+       id="g1236"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1265,7 +1414,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1242">
+       id="g1242"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1280,7 +1432,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1248">
+       id="g1248"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1295,7 +1450,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1254">
+       id="g1254"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1310,7 +1468,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1260">
+       id="g1260"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1325,7 +1486,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1266">
+       id="g1266"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1340,7 +1504,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1272">
+       id="g1272"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1355,7 +1522,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1278">
+       id="g1278"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1370,7 +1540,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1284">
+       id="g1284"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1385,7 +1558,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1290">
+       id="g1290"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1400,7 +1576,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1296">
+       id="g1296"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1415,7 +1594,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1302">
+       id="g1302"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1430,7 +1612,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1308">
+       id="g1308"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1445,7 +1630,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1314">
+       id="g1314"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -1460,7 +1648,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1320">
+       id="g1320"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.5"
          sodipodi:rx="157.5"
@@ -1475,7 +1666,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1326">
+       id="g1326"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.5"
          sodipodi:rx="157.5"
@@ -1490,7 +1684,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1332">
+       id="g1332"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1505,7 +1702,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1338">
+       id="g1338"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1520,7 +1720,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1344">
+       id="g1344"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1535,7 +1738,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1350">
+       id="g1350"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1550,7 +1756,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1356">
+       id="g1356"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1565,7 +1774,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1362">
+       id="g1362"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1580,7 +1792,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1368">
+       id="g1368"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1595,7 +1810,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1374">
+       id="g1374"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1610,7 +1828,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1380">
+       id="g1380"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1625,7 +1846,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1386">
+       id="g1386"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1640,7 +1864,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1392">
+       id="g1392"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1655,7 +1882,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1398">
+       id="g1398"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1670,7 +1900,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1404">
+       id="g1404"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1685,7 +1918,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1410">
+       id="g1410"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1700,7 +1936,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1416">
+       id="g1416"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1715,7 +1954,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1422">
+       id="g1422"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1730,7 +1972,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1428">
+       id="g1428"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1745,7 +1990,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1434">
+       id="g1434"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1760,7 +2008,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1440">
+       id="g1440"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1775,7 +2026,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1446">
+       id="g1446"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1790,7 +2044,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1452">
+       id="g1452"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -1805,7 +2062,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1458">
+       id="g1458"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -1820,7 +2080,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1464">
+       id="g1464"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="600"
          sodipodi:rx="600"
@@ -1835,7 +2098,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1470">
+       id="g1470"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -1850,7 +2116,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1476">
+       id="g1476"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -1865,7 +2134,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1482">
+       id="g1482"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1880,7 +2152,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1488">
+       id="g1488"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1895,7 +2170,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1494">
+       id="g1494"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1910,7 +2188,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1500">
+       id="g1500"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1925,7 +2206,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1506">
+       id="g1506"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1940,7 +2224,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1512">
+       id="g1512"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1955,7 +2242,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1518">
+       id="g1518"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1970,7 +2260,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1524">
+       id="g1524"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -1985,7 +2278,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1530">
+       id="g1530"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -2000,7 +2296,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1536">
+       id="g1536"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -2015,7 +2314,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1542">
+       id="g1542"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -2030,7 +2332,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1548">
+       id="g1548"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -2045,7 +2350,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1554">
+       id="g1554"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2060,7 +2368,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1560">
+       id="g1560"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2075,7 +2386,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1566">
+       id="g1566"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2090,7 +2404,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1572">
+       id="g1572"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2105,7 +2422,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1578">
+       id="g1578"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2120,7 +2440,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1584">
+       id="g1584"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2135,7 +2458,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1590">
+       id="g1590"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2150,7 +2476,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1596">
+       id="g1596"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2165,7 +2494,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1602">
+       id="g1602"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2180,7 +2512,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1608">
+       id="g1608"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2195,7 +2530,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1614">
+       id="g1614"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2210,7 +2548,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1620">
+       id="g1620"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2225,7 +2566,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1626">
+       id="g1626"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2240,7 +2584,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1632">
+       id="g1632"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2255,7 +2602,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1638">
+       id="g1638"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2270,7 +2620,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1644">
+       id="g1644"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2285,7 +2638,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1650">
+       id="g1650"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2300,7 +2656,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1656">
+       id="g1656"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -2315,7 +2674,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1662">
+       id="g1662"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="688.97601"
          sodipodi:rx="688.97601"
@@ -2330,7 +2692,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1668">
+       id="g1668"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="688.97601"
          sodipodi:rx="688.97601"
@@ -2345,7 +2710,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1676">
+       id="g1676"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 72165,35720 0,-197"
@@ -2370,7 +2738,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1688">
+       id="g1688"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="295.5"
          sodipodi:rx="295.5"
@@ -2385,7 +2756,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1694">
+       id="g1694"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="295.5"
          sodipodi:rx="295.5"
@@ -2400,7 +2774,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1700">
+       id="g1700"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,53877 75255,53877 75255,53208 75924,53208 75924,53877 "
@@ -2419,7 +2796,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1708">
+       id="g1708"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,51318 75255,51318 75255,50649 75924,50649 75924,51318 "
@@ -2438,7 +2818,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1716">
+       id="g1716"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,48759 75255,48759 75255,48090 75924,48090 75924,48759 "
@@ -2457,7 +2840,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1724">
+       id="g1724"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,46200 75255,46200 75255,45531 75924,45531 75924,46200 "
@@ -2476,7 +2862,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1732">
+       id="g1732"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,43641 75255,43641 75255,42972 75924,42972 75924,43641 "
@@ -2495,7 +2884,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1740">
+       id="g1740"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,41082 75255,41082 75255,40413 75924,40413 75924,41082 "
@@ -2514,7 +2906,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1748">
+       id="g1748"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,38523 75255,38523 75255,37854 75924,37854 75924,38523 "
@@ -2533,7 +2928,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1756">
+       id="g1756"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,35964 75255,35964 75255,35295 75924,35295 75924,35964 "
@@ -2552,7 +2950,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1764">
+       id="g1764"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,33405 75255,33405 75255,32736 75924,32736 75924,33405 "
@@ -2571,7 +2972,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1772">
+       id="g1772"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="75924,30846 75255,30846 75255,30177 75924,30177 75924,30846 "
@@ -2590,7 +2994,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1780">
+       id="g1780"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="66732,29118 67913,29118 67913,30299 66732,30299 66732,29118 "
@@ -2609,7 +3016,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1788">
+       id="g1788"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="800"
          sodipodi:rx="800"
@@ -2624,7 +3034,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1794">
+       id="g1794"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <polyline
          style="fill-rule:evenodd"
          points="70456,54527 70456,53346 71637,53346 71637,54527 70456,54527 "
@@ -2643,7 +3056,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1802">
+       id="g1802"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2658,7 +3074,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1808">
+       id="g1808"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2673,7 +3092,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1814">
+       id="g1814"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2688,7 +3110,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1820">
+       id="g1820"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2703,7 +3128,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1826">
+       id="g1826"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2718,7 +3146,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1832">
+       id="g1832"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2733,7 +3164,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1838">
+       id="g1838"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2748,7 +3182,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1844">
+       id="g1844"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2763,7 +3200,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1850">
+       id="g1850"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2778,7 +3218,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1856">
+       id="g1856"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2793,7 +3236,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1862">
+       id="g1862"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2808,7 +3254,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1868">
+       id="g1868"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="393.5"
          sodipodi:rx="393.5"
@@ -2823,7 +3272,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:629.92102051;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1876">
+       id="g1876"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 69744,38275 275,0"
@@ -2900,7 +3352,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1914">
+       id="g1914"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2915,7 +3370,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1920">
+       id="g1920"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2930,7 +3388,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1926">
+       id="g1926"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2945,7 +3406,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1932">
+       id="g1932"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2960,7 +3424,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1938">
+       id="g1938"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2975,7 +3442,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1944">
+       id="g1944"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -2990,7 +3460,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1950">
+       id="g1950"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3005,7 +3478,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1956">
+       id="g1956"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3020,7 +3496,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1962">
+       id="g1962"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3035,7 +3514,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1968">
+       id="g1968"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3050,7 +3532,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1974">
+       id="g1974"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3065,7 +3550,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1980">
+       id="g1980"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3080,7 +3568,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1986">
+       id="g1986"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3095,7 +3586,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1992">
+       id="g1992"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3110,7 +3604,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g1998">
+       id="g1998"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3125,7 +3622,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2004">
+       id="g2004"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3140,7 +3640,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c2c2;fill-opacity:1;stroke:#c2c2c2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2010">
+       id="g2010"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="118.11"
          sodipodi:rx="118.11"
@@ -3155,7 +3658,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:98.42520142;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2018">
+       id="g2018"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74311,49015 -197,-197"
@@ -3620,7 +4126,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2250">
+       id="g2250"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3635,7 +4144,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2256">
+       id="g2256"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3650,7 +4162,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2262">
+       id="g2262"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3665,7 +4180,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2268">
+       id="g2268"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3680,7 +4198,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2274">
+       id="g2274"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3695,7 +4216,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2280">
+       id="g2280"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3710,7 +4234,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2286">
+       id="g2286"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3725,7 +4252,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2292">
+       id="g2292"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3740,7 +4270,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2298">
+       id="g2298"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3755,7 +4288,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2304">
+       id="g2304"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3770,7 +4306,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2310">
+       id="g2310"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3785,7 +4324,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2316">
+       id="g2316"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3800,7 +4342,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2322">
+       id="g2322"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3815,7 +4360,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2328">
+       id="g2328"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3830,7 +4378,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2334">
+       id="g2334"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3845,7 +4396,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2340">
+       id="g2340"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3860,7 +4414,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2346">
+       id="g2346"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="78.740196"
          sodipodi:rx="78.740196"
@@ -3875,7 +4432,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2352">
+       id="g2352"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.5"
          sodipodi:rx="157.5"
@@ -3890,7 +4450,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2358">
+       id="g2358"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.5"
          sodipodi:rx="157.5"
@@ -3905,7 +4468,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2364">
+       id="g2364"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3920,7 +4486,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2370">
+       id="g2370"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3935,7 +4504,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2376">
+       id="g2376"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3950,7 +4522,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2382">
+       id="g2382"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3965,7 +4540,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2388">
+       id="g2388"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3980,7 +4558,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2394">
+       id="g2394"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -3995,7 +4576,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2400">
+       id="g2400"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4010,7 +4594,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2406">
+       id="g2406"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4025,7 +4612,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2412">
+       id="g2412"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4040,7 +4630,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2418">
+       id="g2418"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4055,7 +4648,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2424">
+       id="g2424"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4070,7 +4666,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2430">
+       id="g2430"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4085,7 +4684,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2436">
+       id="g2436"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4100,7 +4702,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2442">
+       id="g2442"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4115,7 +4720,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2448">
+       id="g2448"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4130,7 +4738,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2454">
+       id="g2454"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4145,7 +4756,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2460">
+       id="g2460"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4160,7 +4774,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2466">
+       id="g2466"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4175,7 +4792,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2472">
+       id="g2472"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4190,7 +4810,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2478">
+       id="g2478"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4205,7 +4828,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2484">
+       id="g2484"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -4220,7 +4846,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2490">
+       id="g2490"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -4235,7 +4864,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2496">
+       id="g2496"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="600"
          sodipodi:rx="600"
@@ -4250,7 +4882,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2502">
+       id="g2502"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -4265,7 +4900,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2508">
+       id="g2508"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="246"
          sodipodi:rx="246"
@@ -4280,7 +4918,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2514">
+       id="g2514"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4295,7 +4936,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2520">
+       id="g2520"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4310,7 +4954,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2526">
+       id="g2526"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4325,7 +4972,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2532">
+       id="g2532"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4340,7 +4990,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2538">
+       id="g2538"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4355,7 +5008,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2544">
+       id="g2544"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4370,7 +5026,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2550">
+       id="g2550"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4385,7 +5044,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2556">
+       id="g2556"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4400,7 +5062,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2562">
+       id="g2562"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4415,7 +5080,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2568">
+       id="g2568"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4430,7 +5098,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2574">
+       id="g2574"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4445,7 +5116,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2580">
+       id="g2580"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="197"
          sodipodi:rx="197"
@@ -4460,7 +5134,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2586">
+       id="g2586"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4475,7 +5152,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2592">
+       id="g2592"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4490,7 +5170,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2598">
+       id="g2598"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4505,7 +5188,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2604">
+       id="g2604"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4520,7 +5206,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2610">
+       id="g2610"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4535,7 +5224,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2616">
+       id="g2616"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4550,7 +5242,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2622">
+       id="g2622"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4565,7 +5260,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2628">
+       id="g2628"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4580,7 +5278,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2634">
+       id="g2634"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4595,7 +5296,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2640">
+       id="g2640"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4610,7 +5314,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2646">
+       id="g2646"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4625,7 +5332,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2652">
+       id="g2652"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4640,7 +5350,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2658">
+       id="g2658"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4655,7 +5368,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2664">
+       id="g2664"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4670,7 +5386,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2670">
+       id="g2670"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4685,7 +5404,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2676">
+       id="g2676"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4700,7 +5422,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2682">
+       id="g2682"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4715,7 +5440,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2688">
+       id="g2688"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="157.48"
          sodipodi:rx="157.48"
@@ -4730,7 +5458,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2694">
+       id="g2694"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="688.97601"
          sodipodi:rx="688.97601"
@@ -4745,7 +5476,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2700">
+       id="g2700"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="688.97601"
          sodipodi:rx="688.97601"
@@ -4760,7 +5494,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:49.21260071;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2706">
+       id="g2706"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 70705,47825 16,-131"
@@ -4793,7 +5530,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:98.42520142;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2722">
+       id="g2722"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 66193,49510 0,-188 394,0"
@@ -4914,7 +5654,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:118.11000061;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2782">
+       id="g2782"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 67452,47930 -506,0 -56,-28 -28,-56 0,-28"
@@ -4971,7 +5714,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:78.74019623;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2810">
+       id="g2810"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 68405,32086 -394,0"
@@ -5016,7 +5762,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2832">
+       id="g2832"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 71968,35720 394,0"
@@ -5219,7 +5968,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2900">
+       id="g2900"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 68822,32708 300,0"
@@ -5260,7 +6012,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2920">
+       id="g2920"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <circle
          sodipodi:ry="900"
          sodipodi:rx="900"
@@ -5275,7 +6030,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2924">
+       id="g2924"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74047,52437 0,-300"
@@ -5316,7 +6074,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2944">
+       id="g2944"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 66535,34684 0,-394"
@@ -5433,7 +6194,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2984">
+       id="g2984"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 70975,35392 19,19 18,56 0,37 -18,57 -38,37 -37,19 -75,19 -57,0 -75,-19 -37,-19 -38,-37 -18,-57 0,-37 18,-56 19,-19"
@@ -5462,7 +6226,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g2998">
+       id="g2998"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,54471 0,-394"
@@ -5479,7 +6246,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3006">
+       id="g3006"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,52697 0,-393 94,0 56,18 37,38 19,37 19,75 0,57 -19,75 -19,37 -37,38 -56,18 -94,0"
@@ -5492,7 +6262,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3012">
+       id="g3012"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,51912 0,-394"
@@ -5509,7 +6282,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3020">
+       id="g3020"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,50138 0,-393 94,0 56,18 37,38 19,37 19,75 0,57 -19,74 -19,38 -37,37 -56,19 -94,0"
@@ -5522,7 +6298,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3026">
+       id="g3026"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,49353 0,-394"
@@ -5539,7 +6318,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3034">
+       id="g3034"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,47579 0,-394 94,0 56,19 37,38 19,37 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5556,7 +6338,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3042">
+       id="g3042"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,46794 0,-394"
@@ -5573,7 +6358,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3050">
+       id="g3050"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,45020 0,-394 94,0 56,19 37,38 19,37 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5586,7 +6374,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3056">
+       id="g3056"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,44235 0,-394"
@@ -5603,7 +6394,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3064">
+       id="g3064"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,42461 0,-394 94,0 56,19 37,38 19,37 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5616,7 +6410,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3070">
+       id="g3070"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,41676 0,-394"
@@ -5633,7 +6430,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3078">
+       id="g3078"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,39902 0,-394 94,0 56,19 37,38 19,37 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5646,7 +6446,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3084">
+       id="g3084"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,39117 0,-394"
@@ -5663,7 +6466,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3092">
+       id="g3092"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,37343 0,-394 94,0 56,19 37,37 19,38 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5676,7 +6482,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3098">
+       id="g3098"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,36558 0,-394"
@@ -5693,7 +6502,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3106">
+       id="g3106"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75831,34784 0,-394 94,0 56,19 37,37 19,38 19,75 0,56 -19,75 -19,38 -37,37 -56,19 -94,0"
@@ -5706,7 +6518,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3112">
+       id="g3112"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,33998 0,-393"
@@ -5723,7 +6538,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3120">
+       id="g3120"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 75643,32225 0,-394 94,0 56,19 38,37 19,38 18,75 0,56 -18,75 -19,38 -38,37 -56,19 -94,0"
@@ -5744,7 +6562,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3130">
+       id="g3130"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 74736,31439 0,-393"
@@ -5761,7 +6582,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3138">
+       id="g3138"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 68480,31151 -600,0 0,-229 28,-57 29,-28 57,-29 86,0 57,29 28,28 29,57 0,229"
@@ -5794,7 +6618,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3154">
+       id="g3154"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 65949,45237 0,-393 150,0 38,18 18,19 19,38 0,56 -19,37 -18,19 -38,19 -150,0"
@@ -5807,7 +6634,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3160">
+       id="g3160"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 71604,52928 0,-600 228,0 58,29 28,29 29,57 0,85 -29,58 -28,28 -58,29 -228,0"
@@ -5848,7 +6678,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3180">
+       id="g3180"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 65414,33929 -187,131"
@@ -6077,7 +6910,10 @@
     <g
        transform="matrix(0.00899999,0,0,0.00899999,-157.82796,484.257)"
        style="fill:#c2c200;fill-opacity:0;stroke:#c2c200;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="g3294">
+       id="g3294"
+       inkscape:export-filename="/home/jjrh/CODE/kicad/LM3915_audio/images/g708.png"
+       inkscape:export-xdpi="346.69"
+       inkscape:export-ydpi="346.69">
       <path
          inkscape:connector-curvature="0"
          d="m 65354,28346 12598,0"
