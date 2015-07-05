@@ -1,0 +1,27 @@
+
+
+* about
+  Second PCB I have designed, this time in kicad.
+
+  Again it is being sent to Seeedstudio for manufacturing.
+
+* Audio Power Meter with LM3915 IC.
+  Design is from http://www.ti.com/lit/ds/symlink/lm3915.pdf
+  Fig.39 (page 26)
+
+  #+CAPTION: schematic
+#+NAME:   fig:1
+#+attr_html: :width 800px
+[[./images/Audio_Power_Meter.sch.svg]]
+
+
+  #+CAPTION: 3d render
+#+NAME:   fig:2
+#+attr_html: :width 800px
+[[./images/Audio_Power_Meter.png]]
+
+
+  #+CAPTION: PCB
+#+NAME:   fig:3
+#+attr_html: :width 800px
+[[./images/Audio_Power_Meter-brd.svg]]
